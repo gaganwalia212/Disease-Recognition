@@ -1,1 +1,1 @@
-# Disease-Recognition
+# Disease Recognition
